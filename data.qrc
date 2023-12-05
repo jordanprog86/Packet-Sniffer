@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>sniffer_icons_2.ico</file>
+        <file>sniffer_icons_2.png</file>
+        <file>Sans-titre---1.png</file>
+        <file>search.png</file>
+        <file>busy.png</file>
+        <file>config.png</file>
+        <file>home.png</file>
+        <file>information.png</file>
+        <file>internet-web-browser.png</file>
+        <file>loupe2.png</file>
+        <file>exit.png</file>
+    </qresource>
+</RCC>

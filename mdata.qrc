@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>busy.png</file>
+        <file>config.png</file>
+        <file>home.png</file>
+        <file>information.png</file>
+        <file>internet-web-browser.png</file>
+        <file>loupe2.png</file>
+        <file>sniffer_icons_2.png</file>
+        <file>view-refresh.png</file>
+        <file>wifi.png</file>
+        <file>exit.png</file>
+    </qresource>
+</RCC>
