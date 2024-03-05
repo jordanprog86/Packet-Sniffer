@@ -4,6 +4,7 @@ A simple software to stream network packets from the network and analyse network
 
 Packet-Sniffer is a software used to listen to netwrok adapters in order to get the packets comming from the network
 The project is specially made for windows os.It is based on c++ and  lipcap.The Gui is made with Qt Creator.
+![SNIFFER](https://github.com/jordanprog86/Packet-Sniffer/assets/33041215/b9fb00d6-13bf-4ba8-8934-f18bbdcbcdeb)
 
 ## Getting Started
 
