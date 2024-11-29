@@ -40,7 +40,7 @@ In case you encounter any issue, do not hesitate to write us.
 
 Contributors names and contact info
 
-RONEL TCHOULAYEU :Author [@jordanprog86] (https://the-mainthread-jordan.jimdosite.com/)
+RONEL TCHOULAYEU :Author [@jordanprog86] (https://the-mainthread-jordan.jimdosite.com/)  jordanprog@yahoo.fr
 
 ## Version History
 
